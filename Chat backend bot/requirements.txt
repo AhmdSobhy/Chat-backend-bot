@@ -1,0 +1,6 @@
+flask
+openai
+pypdf2
+pyjwt
+tiktoken
+python-dotenv
